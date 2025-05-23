@@ -1,4 +1,4 @@
-## Домашнее задание к занятию «1.2. Ресурсы, View и ViewGroup»
+## Домашнее задание к занятию «1.3. Constraint Layout»
 
 ![Screenshot](img/Screenshot.png)
 ![Screenshot](img/Screenshot_RU.png)
